@@ -21,9 +21,9 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'Gatsby Contentful Blog',
   },
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/react-gatsby-contentful-blog',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-transformer-sharp',
