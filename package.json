@@ -1,7 +1,7 @@
 {
   "name": "react-gatsby-contentful-blog",
   "description": "Gatsby (React) blog using Contentful for data.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jason Springer <jspringercontact@gmail.com>",
   "dependencies": {
     "gatsby-image": "^2.0.13",
